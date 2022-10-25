@@ -27,9 +27,10 @@
 
 - ⚡ Fun fact **I am big fan of George R.R. Martin work**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Recent Blog Posts
+
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
