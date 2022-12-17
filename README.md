@@ -30,6 +30,7 @@
 ### Recent Blog Posts
 
 <!-- HASHNODE:START -->
+- [Firebase Authentication](https://adekolaolawale.hashnode.dev/firebase-authentication)
 - [Demystifying React 18](https://adekolaolawale.hashnode.dev/demystifying-react-18)
 - [Using Redux Toolkit to Handle Asynchronous Data Requests](https://adekolaolawale.hashnode.dev/using-redux-toolkit-to-handle-asynchronous-data-requests)
 - [Redux Toolkit: A More Concise Approach To Dealing With State Management](https://adekolaolawale.hashnode.dev/redux-toolkit-a-more-concise-approach-to-dealing-with-state-management)
