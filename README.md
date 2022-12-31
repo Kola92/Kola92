@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **React & Vue Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.adekolaolawale.me](https://www.adekolaolawale.me)
+- 👨‍💻 All of my projects are available at [https://www.adekolaolawale.me](https://www.adekolaolawale.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@Adekola_Olawale](https://medium.com/@Adekola_Olawale)
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/adekola-resume](https://bit.ly/adekola-resume)
 
-- ⚡ Fun fact **I am big fan of George R.R. Martin work**
+- ⚡ Fun fact **I am a big fan of George R.R. Martin work**
 
 ### Recent Blog Posts
 
