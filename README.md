@@ -30,6 +30,7 @@
 ### Recent Blog Posts
 
 <!-- HASHNODE:START -->
+- [Exploring the New Features of Nextjs v13](https://blog.bitsrc.io/next-js-13-9bfd898747d7)
 - [Firebase Authentication](https://adekolaolawale.hashnode.dev/firebase-authentication)
 - [Demystifying React 18](https://adekolaolawale.hashnode.dev/demystifying-react-18)
 - [Using Redux Toolkit to Handle Asynchronous Data Requests](https://adekolaolawale.hashnode.dev/using-redux-toolkit-to-handle-asynchronous-data-requests)
