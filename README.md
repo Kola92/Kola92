@@ -30,12 +30,11 @@
 ### Recent Blog Posts
 
 <!-- HASHNODE:START -->
-- [Exploring the New Features of Nextjs v13](https://blog.bitsrc.io/next-js-13-9bfd898747d7)
+- [Nextjs 13](https://adekolaolawale.hashnode.dev/nextjs-13-understand-the-complexities)
 - [Firebase Authentication](https://adekolaolawale.hashnode.dev/firebase-authentication)
 - [Demystifying React 18](https://adekolaolawale.hashnode.dev/demystifying-react-18)
 - [Using Redux Toolkit to Handle Asynchronous Data Requests](https://adekolaolawale.hashnode.dev/using-redux-toolkit-to-handle-asynchronous-data-requests)
 - [Redux Toolkit: A More Concise Approach To Dealing With State Management](https://adekolaolawale.hashnode.dev/redux-toolkit-a-more-concise-approach-to-dealing-with-state-management)
-- [Firebase Features to Help Businesses Grow Online](https://adekolaolawale.hashnode.dev/firebase-features-to-help-businesses-grow-online)
 <!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
