@@ -30,11 +30,11 @@
 ### Recent Blog Posts
 
 <!-- HASHNODE:START -->
+- [Web Accessibility](https://adekolaolawale.hashnode.dev/web-accessibility-comprehensive-guide-for-developers)
 - [Bitcoin Security](https://adekolaolawale.hashnode.dev/bitcoin-security-token-in-storage)
 - [Exploring the New Features of Next.js 13](https://adekolaolawale.hashnode.dev/exploring-new-features-of-nextjs13)
 - [Firebase Authentication](https://adekolaolawale.hashnode.dev/firebase-authentication)
 - [Demystifying React 18](https://adekolaolawale.hashnode.dev/demystifying-react-18)
-- [Using Redux Toolkit to Handle Asynchronous Data Requests](https://adekolaolawale.hashnode.dev/using-redux-toolkit-to-handle-asynchronous-data-requests)
 <!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
