@@ -30,11 +30,11 @@
 ### Recent Blog Posts
 
 <!-- HASHNODE:START -->
-- [Web Accessibility](https://adekolaolawale.hashnode.dev/web-accessibility-comprehensive-guide-for-developers)
-- [Bitcoin Security](https://adekolaolawale.hashnode.dev/bitcoin-security-token-in-storage)
-- [Exploring the New Features of Next.js 13](https://adekolaolawale.hashnode.dev/exploring-new-features-of-nextjs13)
-- [Firebase Authentication](https://adekolaolawale.hashnode.dev/firebase-authentication)
-- [Demystifying React 18](https://adekolaolawale.hashnode.dev/demystifying-react-18)
+- [Front End JavaScript Development Handbook – React, Angular, and Vue Compared](https://adekolaolawale.hashnode.dev/front-end-javascript-development-react-angular-vue-compared)
+- [Agile Software Development Handbook – Scrum, Kanban, and Other Methodologies Explained](https://adekolaolawale.hashnode.dev/agile-software-development-handbook)
+- [Git Best Practices – A Guide to Version Control for Beginners](https://adekolaolawale.hashnode.dev/how-to-use-git-best-practices-for-beginners)
+- [JavaScript Development Handbook – React, Angular, and Vue Compared](https://adekolaolawale.hashnode.dev/javascript-frontend-development-handbook)
+- [Scope in JavaScript – Global vs Local vs Block Scope Explained](https://adekolaolawale.hashnode.dev/scope-in-javascript-global-vs-local-vs-block-scope)
 <!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
